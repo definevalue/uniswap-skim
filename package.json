@@ -11,8 +11,8 @@
   "repository": "github.com/nicholashc/uniswap-skim/",
   "license": "Unlicense",
   "dependencies": {
-    "axios": "^0.20.0",
-    "web3": "^1.3.0"
+    "axios": "^0.21.3",
+    "web3": "^1.3.6"
   },
   "devDependencies": {
     "xo": "^0.33.1"
